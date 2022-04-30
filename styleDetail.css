@@ -1,0 +1,36 @@
+.section22{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(51, 42, 42, 0.712);
+}
+
+.img{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+}
+.container22{
+    width: 90%;
+    margin: auto;
+}
+.p{
+    text-align: justify;
+    font-size: 20px;
+    padding-bottom: 100px;
+    line-height: 1.5rem;
+}
+em{
+    padding-top: 30px;
+    display: inline-block;
+}
+.footer{
+    font-size: 30px;
+}
+.section44{
+    padding: 100px;
+    background-color: rgb(22, 22, 39);
+}
